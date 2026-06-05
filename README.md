@@ -1,1 +1,1 @@
-# Counting-sort
+# Sorting algorithm code
